@@ -6,11 +6,11 @@
 
 ### Setup
    ● _Base de Datos_
-  1. Crear la base de datos MySQL `incidentes`
+  1. Crear la base de datos MySQL `incidentes` 
   2. Configurar las credenciales en el archivo `persistence.xml`
   	
    ● _Email API_
-  1. Configurar los parámetros del servidor SMTP en `Email.java`
+  1. Configurar los parámetros del servidor SMTP<abbr title="Test">Cuis</abbr> en `Email.java`
   2. Configurar las credenciales en `Email.java`
   	
    ● _Ejecución_
