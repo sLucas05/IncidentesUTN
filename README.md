@@ -1,7 +1,7 @@
 # Sistema de Reporte de Incidentes
 
 ### Descripción
-Proyecto desarrollado en el marco del curso **Desarrollador Java Intermedio** de la **Universidad Tecnológica Nacional** utilizando el lenguaje **Java**. 
+Proyecto desarrollado en el marco del curso **Desarrollador Java Intermedio** de la **Universidad Tecnológica Nacional** utilizando el lenguaje **Java**. Consiste en un sistema que permite administrar un grupo de clientes y técnicos con diversas especialidades, definiendo la asignación de reportes según el tipo de servicio. Se mantiene informadas a ambas partes sobre el estado del reporte via email tras cada actualización.
 
 Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el procesamiento de la persistencia **MySQL** a traves de **JPA** y la implementación de notificaciones con **Email API**.
 
