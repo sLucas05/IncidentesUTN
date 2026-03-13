@@ -6,23 +6,23 @@
 
 ### Setup
 
-1.	Base de Datos:
+1.	_Base de Datos_
 
-  	o	Crear la base de datos MySQL `incidentes`.
+  	o	Crear la base de datos MySQL `incidentes`
 
-  	o	Configurar las credenciales en el archivo `persistence.xml`.
+  	o	Configurar las credenciales en el archivo `persistence.xml`
   	
-3.	Email API:
+3.	_Email API_
 
-  	o	Configurar los parámetros del servidor SMTP en `Email.java`.
+  	o	Configurar los parámetros del servidor SMTP en `Email.java`
 
-  	o	Configurar las credenciales en `Email.java`.
+  	o	Configurar las credenciales en `Email.java`
   	
-5.	Ejecución:
+5.	_Ejecución_
 
   	o	Importar como proyecto Maven.
 
-    o	Ejecutar `cMain.java`.
+    o	Ejecutar `cMain.java`
 
 
 ### Previsualización
