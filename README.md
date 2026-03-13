@@ -2,6 +2,8 @@
 
 ### Descripción
 
+Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el procesamiento de la persistencia **MySQL** mediante **JPA** y la implementación de notificaciones con **Email API**.
+
 ### Oportunidades de Mejora
 
 ### Setup
