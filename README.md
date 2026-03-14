@@ -3,17 +3,17 @@
 ### Descripción
 Proyecto desarrollado en el marco del curso **Desarrollador Java Intermedio** de la **Universidad Tecnológica Nacional** utilizando el lenguaje **Java**. Consiste en un sistema que permite administrar un grupo de clientes y técnicos con diversas especialidades, definiendo la asignación de reportes según el tipo de servicio. Se mantiene informadas a ambas partes sobre el estado del reporte via email tras cada actualización.
 
-Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el procesamiento de la persistencia **MySQL** a traves de **JPA** y la implementación de notificaciones con **Email API**.
+Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el procesamiento de la persistencia **MySQL** a través de **JPA** y la implementación de notificaciones con **Email API**.
 
 ### Oportunidades de Mejora
 ```
-1. Separar la interfaz de la lógica en clases independientes.
-2. Dividir procesos en funciones para facilitar la reutilización.
-3. Implementar métodos find y findAll para evitar queries manuales.
-4. Centralizar la configuración necesaria en un archivo JSON.
-5. Renombrar las variables para mejorar la legibilidad.
-6. Normalizar la acentuación en los strings.
-7. Agregar pruebas unitarias para garantizar el funcionamiento al 100% del programa.
+● Separar la interfaz de la lógica en clases independientes.
+● Dividir procesos en funciones para facilitar la reutilización.
+● Implementar métodos find y findAll para evitar queries manuales.
+● Centralizar la configuración necesaria en un archivo JSON.
+● Renombrar las variables para mejorar la legibilidad.
+● Normalizar la acentuación en los strings.
+● Agregar pruebas unitarias para garantizar el funcionamiento al 100% del programa.
 ```
 
 ### Setup
