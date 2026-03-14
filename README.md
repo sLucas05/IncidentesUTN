@@ -21,11 +21,11 @@ Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el pr
   1. Crear la base de datos MySQL `incidentes` 
   2. Configurar las credenciales en el archivo `persistence.xml`
   	
-   ● _Email API_
+   • _Email API_
   1. Configurar los parámetros del servidor SMTP en `Email.java`
   2. Configurar las credenciales en `Email.java`
   	
-   ● _Ejecución_
+   • _Ejecución_
   1. Importar como proyecto Maven.
   2. Ejecutar `cMain.java`
 
