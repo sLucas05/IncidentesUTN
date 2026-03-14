@@ -5,7 +5,6 @@ Proyecto desarrollado en el marco del curso **Desarrollador Java Intermedio** de
 
 Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el procesamiento de la persistencia **MySQL** a través de **JPA** y la implementación de notificaciones con **Email API**.
 
-
 ### Oportunidades de Mejora
 ```
 ∘ Separar la interfaz de la lógica en clases independientes.
@@ -23,7 +22,6 @@ Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el pr
 ∘ Agregar pruebas unitarias para garantizar el funcionamiento al 100% del programa.
 ```
 
-
 ### Setup
    • _Base de Datos_
   1. Crear la base de datos MySQL `incidentes` 
@@ -36,7 +34,6 @@ Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el pr
    • _Ejecución_
   1. Importar como proyecto Maven.
   2. Ejecutar `cMain.java`
-
 
 ### Previsualización
 ![Incidentes](https://github.com/user-attachments/assets/84b27f63-5be0-4422-b9f7-27eeecdb8897)
