@@ -17,7 +17,7 @@ Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el pr
 ```
 
 ### Setup
-   ● _Base de Datos_
+   • _Base de Datos_
   1. Crear la base de datos MySQL `incidentes` 
   2. Configurar las credenciales en el archivo `persistence.xml`
   	
