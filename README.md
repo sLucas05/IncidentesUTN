@@ -7,13 +7,13 @@ Destaca de este proyecto la gestión mediante interfaz gráfica **Swing**, el pr
 
 ### Oportunidades de Mejora
 ```
-● Separar la interfaz de la lógica en clases independientes.
-● Dividir procesos en funciones para facilitar la reutilización.
-● Implementar métodos find y findAll para evitar queries manuales.
-● Centralizar la configuración necesaria en un archivo JSON.
-● Renombrar las variables para mejorar la legibilidad.
-● Normalizar la acentuación en los strings.
-● Agregar pruebas unitarias para garantizar el funcionamiento al 100% del programa.
+◉ Separar la interfaz de la lógica en clases independientes.
+◉ Dividir procesos en funciones para facilitar la reutilización.
+◉ Implementar métodos find y findAll para evitar queries manuales.
+◉ Centralizar la configuración necesaria en un archivo JSON.
+◉ Renombrar las variables para mejorar la legibilidad.
+◉ Normalizar la acentuación en los strings.
+◉ Agregar pruebas unitarias para garantizar el funcionamiento al 100% del programa.
 ```
 
 ### Setup
